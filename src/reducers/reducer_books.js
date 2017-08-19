@@ -4,5 +4,5 @@ export default function() {
         {title: 'Clean Code'},
         {title: 'The Dark Tower'},
         {title: 'Eloquent Ruby'}
-    ]
+    ];
 }
